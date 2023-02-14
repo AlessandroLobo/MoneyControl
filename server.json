@@ -47,6 +47,38 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Academia Corpus",
+      "price": 109,
+      "category": "saúde",
+      "type": "income",
+      "createdAt": 1676370669191,
+      "id": 7
+    },
+    {
+      "description": "SSD",
+      "price": 400,
+      "category": "trabalho",
+      "type": "outcome",
+      "createdAt": 1676370774634,
+      "id": 8
+    },
+    {
+      "description": "Pneu carro",
+      "price": 1000,
+      "category": "manutenção",
+      "type": "outcome",
+      "createdAt": 1676371072280,
+      "id": 9
+    },
+    {
+      "description": "bateria celular",
+      "price": 650,
+      "category": "despesas ocasionais",
+      "type": "outcome",
+      "createdAt": 1676372747034,
+      "id": 10
     }
   ]
 }
